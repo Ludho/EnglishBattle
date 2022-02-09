@@ -1,0 +1,103 @@
+11/01/2022 11:55:49	This log contains information about the import schema operation into project 'EnglishBattleData' on computer 'LAPTOP-4270H2GK' by user 'ludho'.
+11/01/2022 11:55:49	Import of database schema has started.
+11/01/2022 11:55:51	Gathering error messages
+11/01/2022 11:55:51	Gathering cryptographic providers
+11/01/2022 11:55:51	Gathering credentials
+11/01/2022 11:55:51	Gathering logins
+11/01/2022 11:55:51	Gathering server roles
+11/01/2022 11:55:51	Gathering server role memberships
+11/01/2022 11:55:52	Gathering linked servers
+11/01/2022 11:55:52	Gathering linked server logins
+11/01/2022 11:55:54	Gathering routes
+11/01/2022 11:55:54	Gathering ddl triggers
+11/01/2022 11:55:54	Gathering encrypted and clr ddl triggers
+11/01/2022 11:55:54	Gathering event notifications
+11/01/2022 11:55:54	Gathering server audits
+11/01/2022 11:55:54	Gathering server audit specifications
+11/01/2022 11:55:54	Gathering event notifications
+11/01/2022 11:55:54	Gathering database credentials
+11/01/2022 11:55:54	Gathering database options
+11/01/2022 11:55:54	Gathering generic database scoped configuration option
+11/01/2022 11:55:54	Gathering users
+11/01/2022 11:55:54	Gathering roles
+11/01/2022 11:55:54	Gathering application roles
+11/01/2022 11:55:54	Gathering role memberships
+11/01/2022 11:55:54	Gathering filegroups
+11/01/2022 11:55:54	Gathering files
+11/01/2022 11:55:54	Gathering full-text catalogs
+11/01/2022 11:55:54	Gathering assemblies
+11/01/2022 11:55:54	Gathering certificates
+11/01/2022 11:55:54	Gathering asymmetric keys
+11/01/2022 11:55:54	Gathering symmetric keys
+11/01/2022 11:55:54	Gathering encrypted symmetric keys
+11/01/2022 11:55:54	Gathering database encryption keys
+11/01/2022 11:55:54	Gathering schemas
+11/01/2022 11:55:54	Gathering XML schema collections
+11/01/2022 11:55:54	Gathering user-defined data types
+11/01/2022 11:55:54	Gathering user-defined types
+11/01/2022 11:55:54	Gathering table types
+11/01/2022 11:55:54	Gathering unique keys for table types
+11/01/2022 11:55:54	Gathering primary keys for table types
+11/01/2022 11:55:54	Gathering indexes for table types
+11/01/2022 11:55:54	Gathering check constraints for table types
+11/01/2022 11:55:54	Gathering default constraints for table types
+11/01/2022 11:55:54	Gathering partition functions
+11/01/2022 11:55:54	Gathering partition schemes
+11/01/2022 11:55:54	Gathering functions
+11/01/2022 11:55:54	Gathering encrypted functions
+11/01/2022 11:55:54	Gathering aggregates
+11/01/2022 11:55:54	Gathering procedures
+11/01/2022 11:55:54	Gathering encrypted procedures
+11/01/2022 11:55:54	Gathering tables
+11/01/2022 11:55:54	Gathering primary keys
+11/01/2022 11:55:54	Gathering unique constraints
+11/01/2022 11:55:54	Gathering foreign keys
+11/01/2022 11:55:55	Gathering default constraints
+11/01/2022 11:55:55	Gathering check constraints
+11/01/2022 11:55:55	Gathering views
+11/01/2022 11:55:55	Gathering encrypted views
+11/01/2022 11:55:55	Gathering indexes
+11/01/2022 11:55:55	Gathering statistics
+11/01/2022 11:55:55	Gathering full-text index stoplists
+11/01/2022 11:55:55	Gathering search property lists
+11/01/2022 11:55:55	Gathering search properties
+11/01/2022 11:55:55	Gathering full-text indexes
+11/01/2022 11:55:55	Gathering column store indexes
+11/01/2022 11:55:55	Gathering spatial indexes
+11/01/2022 11:55:55	Gathering XML indexes
+11/01/2022 11:55:55	Gathering Selective XML indexes
+11/01/2022 11:55:55	Gathering encrypted triggers
+11/01/2022 11:55:55	Gathering triggers
+11/01/2022 11:55:55	Gathering encrypted and clr ddl triggers
+11/01/2022 11:55:55	Gathering ddl triggers
+11/01/2022 11:55:55	Creating edge constraints
+11/01/2022 11:55:55	Gathering synonyms
+11/01/2022 11:55:55	Gathering defaults
+11/01/2022 11:55:55	Gathering data constraint uddt bindings
+11/01/2022 11:55:55	Gathering rules
+11/01/2022 11:55:55	Gathering data constraint uddt bindings
+11/01/2022 11:55:55	Gathering message types
+11/01/2022 11:55:55	Gathering queues
+11/01/2022 11:55:55	Gathering contracts
+11/01/2022 11:55:55	Gathering services
+11/01/2022 11:55:55	Gathering routes
+11/01/2022 11:55:55	Gathering event notifications
+11/01/2022 11:55:55	Gathering remote service bindings
+11/01/2022 11:55:55	Gathering broker priorities
+11/01/2022 11:55:55	Gathering database audit specifications
+11/01/2022 11:55:55	Gathering signatures
+11/01/2022 11:55:55	Gathering data compression options
+11/01/2022 11:55:55	Gathering sequence types
+11/01/2022 11:55:55	Gathering security policies
+11/01/2022 11:55:55	Gather column encryption keys
+11/01/2022 11:55:55	Gathering column master keys
+11/01/2022 11:55:55	Gathering external data sources
+11/01/2022 11:55:55	Gathering external file formats
+11/01/2022 11:55:55	Gathering external tables
+11/01/2022 11:55:55	Gathering extended properties
+11/01/2022 11:55:55	Gathering assemblies
+11/01/2022 11:55:55	Scanning project for duplicate elements
+11/01/2022 11:55:55	Finished duplicate element processing
+11/01/2022 11:55:55	Finished importing database.
+11/01/2022 11:55:55	A summary of the import was saved to the following location: C:\Users\ludho\source\repos\EnglishBattle\EnglishBattleData\Import Schema Logs\EnglishBattleData_20220111105549.log
+11/01/2022 11:55:55	Click Finish to continue...

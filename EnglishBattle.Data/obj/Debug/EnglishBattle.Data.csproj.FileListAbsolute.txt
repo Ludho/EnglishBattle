@@ -1,0 +1,12 @@
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\bin\Debug\EnglishBattle.Data.dll.config
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\bin\Debug\EnglishBattle.Data.dll
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\bin\Debug\EnglishBattle.Data.pdb
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.dll
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.xml
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.csproj.AssemblyReference.cache
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.csproj.CoreCompileInputs.cache
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.csproj.CopyComplete
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.dll
+C:\Users\ludho\source\repos\EnglishBattle\EnglishBattle.Data\obj\Debug\EnglishBattle.Data.pdb
